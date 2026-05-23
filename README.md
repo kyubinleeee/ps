@@ -1,2 +1,2 @@
 # ps
-## Algorithm problem solving
+## Solved algorithm problems

@@ -1,2 +1,2 @@
 # ps
-## Solved algorithm problems
+### Solved algorithm problems
